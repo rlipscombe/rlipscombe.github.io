@@ -1,0 +1,10 @@
+This site is Copyright (c) 2013 Roger Lipscombe.
+
+You MAY NOT use any of the content of this site for any purpose.
+The layout and stylesheets are from github, so I guess that you can use those.
+
+All icons are copyright their original publishers, and are used (as far
+as I can tell) within the relevant terms of use.
+
+The photo of me is copyright Yuriy Baranovskyy.
+
