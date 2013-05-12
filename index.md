@@ -28,6 +28,15 @@ I'm also good at communicating what I've learnt to other team members, through d
 
 I'm also willing to step up and take various other roles as needed. For example, I've spent time as scrum master, and have worked with product management to define and scope releases. I'm also willing to help out other teams as needed.
 
+Hobbies
+--
+
+###Snowboarding###
+
+I try to go at least once a year; I’ve been to both to Europe and North America. I’m on a K2 Nemesis, riding regular. Most recently, I went to Les Arcs with a group of friends and spent a lot of my time following a guide around in superb off-piste conditions.
+
+I’m lousy at jumps and once had to have staples put in a head wound. I now wear a helmet.
+
 Public Profile
 --
 
