@@ -24,9 +24,9 @@ I'm good at acquiring new skills extremely quickly, and I like keeping my skills
 
 But, I'm not just a coder. I'm good at general trouble-shooting. For example: I can drive a network packet sniffer, and I understand a bunch of different network protocols.
 
-I'm also good at communicating what I've learnt to other team members, through demonstrations, presentations, mentoring and just being around to answer questions and help out. I participate in code reviews, and the recruitment process.
+I'm also good at communicating what I've learnt to other team members, through demonstrations, presentations, mentoring and just being around to answer questions and help out. I'm also willing to help out other teams as needed. I participate in code reviews, and the recruitment process.
 
-I'm also willing to step up and take various other roles as needed. For example, I've spent time as scrum master, and have worked with product management to define and scope releases. I'm also willing to help out other teams as needed.
+I'm also willing to step up and take various other roles as needed. For example, I've spent time as scrum master, and have worked with product management to define and scope releases.
 
 Hobbies
 --
