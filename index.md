@@ -33,7 +33,7 @@ Hobbies
 
 ###Snowboarding###
 
-I try to go at least once a year; I’ve been to both to Europe and North America. I’m on a K2 Nemesis, riding regular. Most recently, I went to Les Arcs with a group of friends and spent a lot of my time following a guide around in superb off-piste conditions.
+I try to go at least once a year; I’ve been to both Europe and North America. I’m on a K2 Nemesis, riding regular. Most recently, I went to Les Arcs with a group of friends and spent a lot of my time following a guide around in superb off-piste conditions.
 
 I’m lousy at jumps and once had to have staples put in a head wound. I now wear a helmet.
 
