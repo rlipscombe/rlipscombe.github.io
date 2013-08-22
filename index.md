@@ -13,7 +13,7 @@ My name is Roger Lipscombe. I'm 37 years old, and I live in West London.
 I've just got a new job: I'm working for [electric imp](http://electricimp.com) in the UK.
 
 Before that, I was Software Architect at [Trayport](http://trayport.com), in London. I was at Trayport for a little over 3 years, since April 2010.
-Before *that*, I was at [1E](http://1e.com) for just over 5 years. If you want to go back further, check out my [www.linkedin.com/in/rlipscombe](http://www.linkedin.com/in/rlipscombe) profile.
+Before *that*, I was at [1E](http://1e.com) for just over 5 years. If you want to go back further, check out my [LinkedIn profile](http://www.linkedin.com/in/rlipscombe).
 
 I went to the [University of Warwick](http://warwick.ac.uk/), between 1994 and 1997, studying [Computer Science](http://www.dcs.warwick.ac.uk/).
 
