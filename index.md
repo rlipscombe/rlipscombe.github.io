@@ -9,7 +9,7 @@ About Roger
 Who Am I?
 --
 
-My name is Roger Lipscombe. I'm 37 years old, and I live in West London.  I've
+My name is Roger Lipscombe. I'm 38 years old, and I live in West London.  I've
 just got a new job: I'm working for [electric imp](http://electricimp.com) in
 the UK.
 
@@ -20,15 +20,14 @@ years. If you want to go back further, check out my [LinkedIn
 profile](http://www.linkedin.com/in/rlipscombe).
 
 I went to the [University of Warwick](http://warwick.ac.uk/), between 1994 and
-1997, studying [Computer Science](http://www.dcs.warwick.ac.uk/).
+1997, where I received a BSc (Hons) in [Computer Science](http://www.dcs.warwick.ac.uk/).
 
 Professional Summary
 --
 
-Over 15 years' commercial development experience, until recently, mostly on
-Windows. Several senior developer roles, including development lead and most
-recently technical software architect. Experienced with Agile processes,
-including XP and Scrum.
+Over 15 years' commercial development experience, mostly on Windows. Several
+senior developer roles, including development lead and most recently technical
+software architect. Experienced with Agile processes, including XP and Scrum.
 
 I'm an extremely experienced Windows developer, with C++ and the Win32 API, and
 with C# and the .NET framework. I also have a lot of experience with SQL
@@ -38,7 +37,9 @@ I'm good at acquiring new skills extremely quickly, and I like keeping my
 skills up to date. I tend to investigate a new technology by working on small
 projects in my spare time. At the moment, I’m learning
 [node.js](http://nodejs.org/) and [MongoDB](http://www.mongodb.org/) by
-reimplementing [my blog](http://blog.differentpla.net/).
+reimplementing [my blog](http://blog.differentpla.net/); and
+[Erlang](http://www.erlang.org) by implementing
+[dashly](https://github.com/rlipscombe/dashly), a web dashboard.
 
 But I'm not just a coder. I'm good at general trouble-shooting. For example: I
 can drive a network packet sniffer, and I understand a bunch of different
