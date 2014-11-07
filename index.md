@@ -7,7 +7,7 @@ title: About Roger
 
 ## Who Am I?
 
-My name is Roger Lipscombe. I'm 38 years old, and I live in West London.  I
+My name is Roger Lipscombe. I'm 39 years old, and I live in West London.  I
 work for [Electric Imp](http://electricimp.com) in the UK.
 
 Before joining Electric Imp, I was a Software Architect at
@@ -29,7 +29,7 @@ I'm an extremely experienced Windows developer, with C++ and the Win32 API, and
 with C# and the .NET framework. I also have a lot of experience with SQL
 Server.
 
-More recently, I've been programming in node.js, Erlang and C++ on Linux.
+Since 2013, I've been programming in node.js, Erlang and C++ on Linux.
 
 I'm good at acquiring new skills extremely quickly, and I like keeping my
 skills up to date. I tend to investigate a new technology by working on small
