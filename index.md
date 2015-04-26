@@ -33,8 +33,7 @@ Since 2013, I've been programming in node.js, Erlang and C++ on Linux.
 
 I'm good at acquiring new skills extremely quickly, and I like keeping my
 skills up to date. I tend to investigate a new technology by working on small
-projects in my spare time. For example, my [blog](http://blog.differentpla.net)
-is written in Erlang.
+projects in my spare time.
 
 But I'm not just a coder. I'm good at general trouble-shooting. For example: I
 can drive a network packet sniffer, and I understand a bunch of different
