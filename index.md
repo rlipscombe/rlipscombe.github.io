@@ -7,8 +7,9 @@ title: About Roger
 
 ## Who Am I?
 
-My name is Roger Lipscombe. I'm 39 years old, and I live in West London.  I
-work for [Electric Imp](http://electricimp.com) in the UK.
+My name is Roger Lipscombe. I'm 42 years old, and I live in West London.  I
+lead the "core cloud services" team at [Electric Imp](https://electricimp.com)
+in the UK.
 
 Before joining Electric Imp, I was a Software Architect at
 [Trayport](http://trayport.com), in London. I was at Trayport for a little over
@@ -54,18 +55,10 @@ capture requirements.
 ### Snowboarding
 
 I try to go at least once a year; I’ve been to both Europe and North America.
-I’m on a K2 Nemesis, riding regular. Most recently, I went to Alpe d'Huez with
-a group of friends and spent a lot of my time following a guide around in
-superb off-piste conditions.
+I’m on a K2 Nemesis, riding regular.
 
 I’m lousy at jumps and once had to have staples put in a head wound. I now wear
 a helmet.
-
-### Computers
-
-Even though I spend all day getting paid to stare at a computer screen, I still
-find time to mess around with computers at home.  For example, my home network
-is a Windows 2012 domain, while my blog runs from a Hyper-V-hosted Ubuntu server.
 
 ## Public Profile
 
