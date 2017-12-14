@@ -22,7 +22,7 @@ I went to the [University of Warwick](http://warwick.ac.uk/), between 1994 and
 
 ## Professional Summary
 
-Over 15 years' commercial development experience, mostly on Windows. Several
+Over 20 years' commercial development experience, mostly on Windows. Several
 senior developer roles, including development lead and most recently technical
 software architect. Experienced with Agile processes, including XP and Scrum.
 
@@ -49,6 +49,12 @@ I'm also willing to step up and take various other roles as needed. For
 example, I've spent time as scrum master, and have worked with product
 management to define and scope releases, and face-to-face with customers to
 capture requirements.
+
+## Presentations
+
+ - Using Erlang to power the Internet of Things:
+   - [London Erlang User Group, 18 March 2015](https://vimeo.com/124606816)
+   - [F# User Group, 17 September 2015](https://skillsmatter.com/skillscasts/6586-powering-the-internet-of-things)
 
 ## Hobbies
 
