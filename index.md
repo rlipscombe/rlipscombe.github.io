@@ -7,7 +7,7 @@ title: About Roger
 
 ## Who Am I?
 
-My name is Roger Lipscombe. I'm 42 years old, and I live in West London.  I
+My name is Roger Lipscombe. I'm 43 years old, and I live in West London.  I
 lead the "core cloud services" team at [Electric Imp](https://electricimp.com)
 in the UK.
 
