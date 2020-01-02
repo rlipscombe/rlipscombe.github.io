@@ -22,15 +22,14 @@ I went to the [University of Warwick](http://warwick.ac.uk/), between 1994 and
 
 ## Professional Summary
 
-Over 20 years' commercial development experience, mostly on Windows. Several
-senior developer roles, including development lead and most recently technical
+Over 25 years' commercial development experience, most recently using Erlang.
+
+Several senior developer roles, including development lead and most recently technical
 software architect. Experienced with Agile processes, including XP and Scrum.
 
-I'm an extremely experienced Windows developer, with C++ and the Win32 API, and
+I'm also an extremely experienced Windows developer, with C++ and the Win32 API, and
 with C# and the .NET framework. I also have a lot of experience with SQL
 Server.
-
-Since 2013, I've been programming in node.js, Erlang and C++ on Linux.
 
 I'm good at acquiring new skills extremely quickly, and I like keeping my
 skills up to date. I tend to investigate a new technology by working on small
