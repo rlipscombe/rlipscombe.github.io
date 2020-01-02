@@ -67,11 +67,8 @@ a helmet.
 
 ## Public Profile
 
-* My (new) blog	[blog.differentpla.net](http://blog.differentpla.net)
-* My (old) blog	[www.differentpla.net/content/](http://www.differentpla.net/content/)
+* My blog	[blog.differentpla.net](http://blog.differentpla.net)
 * ![](images/LinkedIn_Logo16px.png) [www.linkedin.com/in/rlipscombe](http://www.linkedin.com/in/rlipscombe)
 * ![](images/so-icon.png) [stackoverflow.com/users/8446/roger-lipscombe](http://stackoverflow.com/users/8446/roger-lipscombe)
-* ![](images/careers-icon.png) [careers.stackoverflow.com/roger-lipscombe](http://careers.stackoverflow.com/roger-lipscombe)
 * ![](images/github-icon.png) [github.com/rlipscombe](http://github.com/rlipscombe)
-* ![](images/codeplex-icon.png) [www.codeplex.com/site/users/view/rlipscombe](http://www.codeplex.com/site/users/view/rlipscombe)
 * ![](images/twitter-icon.png) [@rogerlipscombe](https://twitter.com/rogerlipscombe)
