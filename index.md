@@ -8,10 +8,10 @@ title: About Roger
 ## Who Am I?
 
 My name is Roger Lipscombe. I'm 44 years old, and I live in West London.  I
-lead the "core cloud services" team at [Electric Imp](https://electricimp.com)
-in the UK.
+lead the "Imp Core" development team -- part of the IoT business unit -- at [Twilio](https://twilio.com).
+I'm based in the UK.
 
-Before joining Electric Imp, I was a Software Architect at
+I joined Twilio when they acquired [Electric Imp](https://electricimp.com). I started at Electric Imp about 6 years ago. Before joining Electric Imp, I was a Software Architect at
 [Trayport](http://trayport.com), in London. I was at Trayport for a little over
 3 years, from April 2010 until August 2013.  Before *that*, I was at
 [1E](http://1e.com) for just over 5 years. If you want to go back further,
@@ -22,7 +22,7 @@ I went to the [University of Warwick](http://warwick.ac.uk/), between 1994 and
 
 ## Professional Summary
 
-Over 25 years' commercial development experience, most recently using Erlang.
+Over 25 years' commercial development experience, most recently using Erlang and Elixir.
 
 Several senior developer roles, including development lead and most recently technical
 software architect. Experienced with Agile processes, including XP and Scrum.
