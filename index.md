@@ -7,7 +7,7 @@ title: About Roger
 
 ## Who Am I?
 
-My name is Roger Lipscombe. I'm 44 years old, and I live in West London.  I
+My name is Roger Lipscombe. I'm 45 years old, and I live in West London.  I
 lead the "Imp Core" development team -- part of the IoT business unit -- at [Twilio](https://twilio.com).
 I'm based in the UK.
 
