@@ -7,47 +7,60 @@ title: About Roger
 
 ## Who Am I?
 
-My name is Roger Lipscombe. I'm 45 years old, and I live in West London.  I
-lead the "Imp Core" development team -- part of the IoT business unit -- at [Twilio](https://twilio.com).
-I'm based in the UK.
+My name is Roger Lipscombe. I'm 46 years old, and I live in West London.
+I lead the "Microvisor Cloud" development team -- part of the IoT
+business unit -- at [Twilio](https://twilio.com). I'm based in the UK. I
+joined Twilio when they acquired [Electric
+Imp](https://electricimp.com). I started at Electric Imp about 8 years
+ago.
 
-I joined Twilio when they acquired [Electric Imp](https://electricimp.com). I started at Electric Imp about 6 years ago. Before joining Electric Imp, I was a Software Architect at
-[Trayport](http://trayport.com), in London. I was at Trayport for a little over
-3 years, from April 2010 until August 2013.  Before *that*, I was at
-[1E](http://1e.com) for just over 5 years. If you want to go back further,
-check out my [LinkedIn profile](http://www.linkedin.com/in/rlipscombe).
+Before joining Electric Imp, I was a Software Architect at
+[Trayport](http://trayport.com), in London. I was at Trayport for a
+little over 3 years, from April 2010 until August 2013.  Before *that*,
+I was at [1E](http://1e.com) for just over 5 years. If you want to go
+back further, check out my [LinkedIn
+profile](http://www.linkedin.com/in/rlipscombe).
 
-I went to the [University of Warwick](http://warwick.ac.uk/), between 1994 and
-1997, where I received a BSc (Hons) in [Computer Science](http://www.dcs.warwick.ac.uk/).
+I went to the [University of Warwick](http://warwick.ac.uk/), between
+1994 and 1997, where I received a BSc (Hons) in [Computer
+Science](http://www.dcs.warwick.ac.uk/).
 
 ## Professional Summary
 
-Over 25 years' commercial development experience, most recently using Erlang and Elixir.
+Over 25 years' commercial development experience.
 
-Several senior developer roles, including development lead and most recently technical
-software architect. Experienced with Agile processes, including XP and Scrum.
+Several senior developer roles, including development lead and most
+recently technical software architect. I've spent some time as an
+Engineering Manager.
 
-I'm also an extremely experienced Windows developer, with C++ and the Win32 API, and
-with C# and the .NET framework. I also have a lot of experience with SQL
-Server.
+Experienced with Agile processes, including XP and Scrum.
 
-I'm good at acquiring new skills extremely quickly, and I like keeping my
-skills up to date. I tend to investigate a new technology by working on small
-projects in my spare time.
+I've been using Erlang and Elixir for the last 8 years, successfully
+building and operating Electric Imp's cloud components at scale, and
+with excellent reliability.
 
-But I'm not just a coder. I'm good at general trouble-shooting. For example: I
-can drive a network packet sniffer, and I understand a bunch of different
-network protocols.
+I'm also an experienced Windows developer, with C++ and the Win32 API,
+and with C# and the .NET framework. I also have a lot of experience with
+SQL Server.
 
-I'm also good at communicating what I've learnt to other team members, through
-demonstrations, presentations, mentoring and just being around to answer
-questions and help out.  I'm also willing to help out other teams as needed. I
-participate in code reviews, and the recruitment process.
+I'm good at acquiring new skills extremely quickly, and I like keeping
+my skills up to date. I tend to investigate a new technology by working
+on small projects in my spare time.
+
+But I'm not just a coder. I'm good at general trouble-shooting. For
+example: I can drive a network packet sniffer, and I understand a bunch
+of different network protocols.
+
+I'm good at communicating what I've learnt to other team members,
+through demonstrations, presentations, mentoring and just being around
+to answer questions and help out.  I'm also willing to help out other
+teams as needed. I participate in code reviews. I'm often part of the
+recruitment process.
 
 I'm also willing to step up and take various other roles as needed. For
 example, I've spent time as scrum master, and have worked with product
-management to define and scope releases, and face-to-face with customers to
-capture requirements.
+management to define and scope releases, and face-to-face with customers
+to capture requirements.
 
 ## Presentations
 
@@ -59,11 +72,11 @@ capture requirements.
 
 ### Snowboarding
 
-I try to go at least once a year; I’ve been to both Europe and North America.
-I’m on a K2 Nemesis, riding regular.
+I try to go at least once a year; I’ve been to both Europe and North
+America. I’m on a K2 Nemesis, riding regular.
 
-I’m lousy at jumps and once had to have staples put in a head wound. I now wear
-a helmet.
+I’m lousy at jumps and once had to have staples put in a head wound. I
+now wear a helmet.
 
 ## Public Profile
 
