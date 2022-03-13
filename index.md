@@ -8,11 +8,12 @@ title: About Roger
 ## Who Am I?
 
 My name is Roger Lipscombe. I'm 46 years old, and I live in West London.
-I lead the "Microvisor Cloud" development team -- part of the IoT
-business unit -- at [Twilio](https://twilio.com). I'm based in the UK. I
-joined Twilio when they acquired [Electric
-Imp](https://electricimp.com). I started at Electric Imp about 8 years
-ago.
+
+I'm currently taking a sabbatical.
+
+Until recently, I was tech lead of the "Microvisor Cloud" development team -- part of the IoT business unit -- at
+[Twilio](https://twilio.com). I joined Twilio when they acquired [Electric Imp](https://electricimp.com). I started at
+Electric Imp about 8 years ago.
 
 Before joining Electric Imp, I was a Software Architect at
 [Trayport](http://trayport.com), in London. I was at Trayport for a
