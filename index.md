@@ -7,7 +7,7 @@ title: About Roger
 
 ## Who Am I?
 
-My name is Roger Lipscombe. I'm 46 years old, and I live in West London.
+My name is Roger Lipscombe. I live in West London.
 
 I'm currently taking a sabbatical.
 
