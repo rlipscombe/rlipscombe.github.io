@@ -9,11 +9,11 @@ title: About Roger
 
 My name is Roger Lipscombe. I live in West London.
 
-I'm currently taking a sabbatical.
+I currently work at Superbet, as a Senior Software Engineer.
 
-Until recently, I was tech lead of the "Microvisor Cloud" development team -- part of the IoT business unit -- at
-[Twilio](https://twilio.com). I joined Twilio when they acquired [Electric Imp](https://electricimp.com). I started at
-Electric Imp about 8 years ago.
+Prior to that, I was tech lead of the "Microvisor Cloud" development team -- part of the IoT business unit -- at
+[Twilio](https://twilio.com). I was at Twilio for a little over two years, from when they acquired
+[Electric Imp](https://electricimp.com). I started at Electric Imp about 10 years ago.
 
 Before joining Electric Imp, I was a Software Architect at [Trayport](http://trayport.com), in London. I was at Trayport
 for a little over 3 years, from April 2010 until August 2013.  Before *that*, I was at [1E](http://1e.com) for just over
@@ -24,15 +24,15 @@ I went to the [University of Warwick](http://warwick.ac.uk/), between 1994 and 1
 
 ## Professional Summary
 
-Over 25 years' commercial development experience.
+Almost 30 years' commercial development experience.
 
 Several senior developer roles, including development lead and most recently technical software architect. I've spent
 some time as an Engineering Manager.
 
 Experienced with Agile processes, including XP and Scrum.
 
-I've been using Erlang and Elixir for the last 8 years, successfully building and operating Electric Imp's cloud
-components at scale, and with excellent reliability.
+I've been using Erlang and Elixir for the last 10 years, successfully building and operating Electric Imp's cloud
+components at scale, and with excellent reliability. At the moment, I'm applying those same skills at Superbet.
 
 I'm also an experienced Windows developer, with C++ and the Win32 API, and with C# and the .NET framework. I also have a
 lot of experience with SQL Server.
@@ -49,7 +49,7 @@ in code reviews. I'm often part of the recruitment process.
 
 I'm also willing to step up and take various other roles as needed. For example, I've spent time as scrum master, and
 have worked with product management to define and scope releases, and face-to-face with customers to capture
-requirements.
+requirements, and to perform hand-over training.
 
 ## Presentations
 
