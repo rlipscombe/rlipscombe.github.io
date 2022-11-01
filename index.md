@@ -9,7 +9,7 @@ title: About Roger
 
 My name is Roger Lipscombe. I live in West London.
 
-I currently work at Happening (the technology powering Superbet), as a Senior Software Engineer.
+I currently work at [Happening](https://happening.xyz) (the technology powering Superbet), as a Senior Software Engineer.
 
 Prior to that, I was tech lead of the "Microvisor Cloud" development team -- part of the IoT business unit -- at
 [Twilio](https://twilio.com). I was at Twilio for a little over two years, from when they acquired
