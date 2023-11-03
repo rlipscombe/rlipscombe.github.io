@@ -9,7 +9,8 @@ title: About Roger
 
 My name is Roger Lipscombe. I live in West London.
 
-I currently work at [Happening](https://happening.xyz) (the technology powering Superbet), as a Senior Software Engineer.
+I currently work at [Happening](https://happening.xyz) (the technology powering Superbet), as a Senior Software
+Engineer. I've been at Happening since October 2022.
 
 Prior to that, I was tech lead of the "Microvisor Cloud" development team -- part of the IoT business unit -- at
 [Twilio](https://twilio.com). I was at Twilio for a little over two years, from when they acquired
@@ -32,7 +33,7 @@ some time as an Engineering Manager.
 Experienced with Agile processes, including XP and Scrum.
 
 I've been using Erlang and Elixir for the last 10 years, successfully building and operating Electric Imp's cloud
-components at scale, and with excellent reliability. At the moment, I'm applying those same skills at Superbet.
+components at scale, and with excellent reliability. At the moment, I'm applying those same skills at Happening.
 
 I'm also an experienced Windows developer, with C++ and the Win32 API, and with C# and the .NET framework. I also have a
 lot of experience with SQL Server.
