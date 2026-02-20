@@ -9,8 +9,8 @@ title: About Roger
 
 My name is Roger Lipscombe. I live in West London.
 
-I currently work at [Happening](https://happening.xyz) (the technology powering Superbet), as a Senior Software
-Engineer. I've been at Happening since October 2022.
+I currently work at [Super](https://www.super.xyz/), as a Senior Software Engineer. I've been at Super since October
+2022.
 
 Prior to that, I was tech lead of the "Microvisor Cloud" development team -- part of the IoT business unit -- at
 [Twilio](https://twilio.com). I was at Twilio for a little over two years, from when they acquired
@@ -27,14 +27,16 @@ I went to the [University of Warwick](http://warwick.ac.uk/), between 1994 and 1
 
 Almost 35 years' commercial development experience.
 
-Several senior developer roles, including development lead and most recently technical software architect. I've spent
-some time as an Engineering Manager.
+Several senior developer roles, including development lead and technical software architect. I've spent some time as an
+Engineering Manager.
 
 Experienced with Agile processes, including XP and Scrum.
 
 I've been using Erlang and Elixir for the last 12 years, successfully building and operating Electric Imp's cloud
-components at scale, and with excellent reliability. At the moment, I'm applying those same skills at Happening, at a
-larger scale.
+components at scale, and with excellent reliability (better than 99.99% uptime).
+
+At the moment, I'm applying those same skills at Super, at a larger scale (over 1 million daily-active users; more than
+2 billion transactions a year).
 
 I'm also an experienced Windows developer, with C++ and the Win32 API, and with C# and the .NET framework. I also have a
 lot of experience with SQL Server.
@@ -48,7 +50,7 @@ understand a bunch of different network protocols.
 
 I'm good at communicating what I've learnt to other team members, through demonstrations, presentations, mentoring and
 just being around to answer questions and help out.  I'm also willing to help out other teams as needed. I participate
-in code reviews. I'm often part of the recruitment process.
+in code reviews. I'm often part of the interview and recruitment process.
 
 I'm also willing to step up and take various other roles as needed. For example, I've spent time as scrum master, and
 have worked with product management to define and scope releases, and face-to-face with customers to capture
