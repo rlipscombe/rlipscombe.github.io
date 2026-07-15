@@ -9,16 +9,16 @@ title: About Roger
 
 My name is Roger Lipscombe. I live in West London.
 
-I currently work at [Super](https://www.super.xyz/), as a Senior Software Engineer. I've been at Super since October
-2022.
+I'm currently taking a couple of months off work.
 
-Prior to that, I was tech lead of the "Microvisor Cloud" development team -- part of the IoT business unit -- at
-[Twilio](https://twilio.com). I was at Twilio for a little over two years, from when they acquired
-[Electric Imp](https://electricimp.com). I started at Electric Imp about 12 years ago.
+From October 2022 until May 2026, I worked at [Super](https://www.super.xyz/),
+as a Senior Software Engineer, mostly responsible for our Kafka client
+libraries written in Erlang.
 
-Before joining Electric Imp, I was a Software Architect at [Trayport](http://trayport.com), in London. I was at Trayport
-for a little over 3 years, from April 2010 until August 2013.  Before *that*, I was at [1E](http://1e.com) for just over
-5 years. If you want to go back further, check out my [LinkedIn profile](http://www.linkedin.com/in/rlipscombe).
+Prior to that, I was tech lead of the "Microvisor Cloud" development team --
+part of the IoT business unit -- at [Twilio](https://twilio.com). I was at
+Twilio for a little over two years, from when they acquired [Electric
+Imp](https://electricimp.com). I started at Electric Imp in 2013.
 
 I went to the [University of Warwick](http://warwick.ac.uk/), between 1994 and 1997, where I received a BSc (Hons) in
 [Computer Science](http://www.dcs.warwick.ac.uk/).
