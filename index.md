@@ -91,6 +91,6 @@ I’m lousy at jumps and once had to have staples put in a head wound. I now wea
 * ![](images/LinkedIn_Logo16px.png) [www.linkedin.com/in/rlipscombe](https://www.linkedin.com/in/rlipscombe)
 * ![](images/so-icon.png) [stackoverflow.com/users/8446/roger-lipscombe](https://stackoverflow.com/users/8446/roger-lipscombe)
 * ![](images/github-icon.png) [github.com/rlipscombe](https://github.com/rlipscombe)
-* [codeberg.org/rlipscombe](https://codeberg.org/rlipscombe)
+* ![](images/codeberg-icon.png) [codeberg.org/rlipscombe](https://codeberg.org/rlipscombe)
 * ![](images/mastodon.png) [hachyderm.io/@rogerlipscombe](https://hachyderm.io/@rogerlipscombe)
 
