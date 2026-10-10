@@ -2,7 +2,9 @@
 
 body {
   padding:50px;
-  font:18px sans-serif;
+  font-family: -apple-system, "Segoe UI", system-ui, "Noto Sans", "Noto Sans Hebrew", Roboto, "Helvetica Neue", Arial, "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Noto Color Emoji", "Twemoji Mozilla";
+  font-size:18px;
+  font-weight:400;
   color:#000;
 }
 
