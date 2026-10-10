@@ -12,10 +12,12 @@ My name is Roger Lipscombe. I live in West London.
 I'm currently taking a couple of months off work.
 
 From October 2022 until May 2026, I worked at [Super](https://www.super.xyz/),
-as a Senior Software Engineer, mostly responsible for our Kafka client
-libraries written in Erlang.
+as a Senior Software Engineer in the "Player Platform" team. I was mostly
+responsible for our Kafka client libraries written in Erlang and for rebuilding
+our CI pipeline (GitHub Actions) to improve build speed and reliability and to
+target AWS Graviton.
 
-Prior to that, I was tech lead of the "Microvisor Cloud" development team --
+Prior to Super, I was tech lead of the "Microvisor Cloud" development team --
 part of the IoT business unit -- at [Twilio](https://twilio.com). I was at
 Twilio for a little over two years, from when they acquired [Electric
 Imp](https://electricimp.com). I started at Electric Imp in 2013.
@@ -35,16 +37,18 @@ I went to the [University of Warwick](http://warwick.ac.uk/), between 1994 and
 Almost 35 years' commercial development experience.
 
 Several senior developer roles, including development lead and technical
-software architect. I've spent some time as an Engineering Manager.
-
-Experienced with Agile processes, including XP and Scrum.
+software architect. I've spent some time as an Engineering Manager and as a
+Scrum Master.
 
 I've been using Erlang and Elixir for the last 12 years, successfully building
 and operating Electric Imp's cloud components at scale, and with excellent
 reliability (better than 99.99% uptime).
 
-More recently, I applying those same skills at Super, at a larger scale (over 1
-million daily-active users; more than 2 billion transactions a year).
+More recently, I was applying those same skills at Super, at a larger scale
+(over 1 million daily-active users; more than 2 billion transactions a year).
+
+I'm a strong proponent of reliability and the importance of automated testing
+to help achieve this.
 
 I'm also an experienced (though it's been a while...) Windows developer, with
 C++ and the Win32 API, and with C# and the .NET framework. I also have a lot of
@@ -63,7 +67,8 @@ I'm good at communicating what I've learnt to other team members, through
 demonstrations, presentations, mentoring and just being around to answer
 questions and help out.  I'm also willing to help out other teams as needed. I
 participate in code reviews. I'm often part of the interview and recruitment
-process.
+process. Most recently, I put together training materials and videos for
+onboarding newly-hired engineers.
 
 I'm also willing to step up and take various other roles as needed. For
 example, I've spent time as scrum master, and have worked with product
@@ -74,23 +79,29 @@ capture requirements, and to perform hand-over training.
 
  - Using Erlang to power the Internet of Things:
    - [London Erlang User Group, 18 March 2015](https://vimeo.com/124606816)
-   - [F# User Group, 17 September 2015](https://skillsmatter.com/skillscasts/6586-powering-the-internet-of-things)
+   - F# User Group, 17 September 2015 (at the now-defunct Skills Matter)
 
 ## Hobbies
 
 ### Snowboarding
 
-I haven't been since before COVID-19, but prior to that I rode in both Europe and North America. I’m on a K2 Nemesis,
-riding regular.
+I haven't been since before COVID-19, but prior to that I rode in both Europe
+and North America. I’m on a K2 Nemesis, riding regular.
 
-I’m lousy at jumps and once had to have staples put in a head wound. I now wear a helmet.
+I’m lousy at jumps and once had to have staples put in a head wound. I now wear
+a helmet.
+
+### Woodworking
+
+While on my recent career break, I tried basic woodworking. I built some
+shelving units for the shed and rebuilt our garden decking.
 
 ## Public Profile
 
 * My blog [blog.differentpla.net](https://blog.differentpla.net)
 * ![](images/LinkedIn_Logo16px.png) [www.linkedin.com/in/rlipscombe](https://www.linkedin.com/in/rlipscombe)
-* ![](images/so-icon.png) [stackoverflow.com/users/8446/roger-lipscombe](https://stackoverflow.com/users/8446/roger-lipscombe)
-* ![](images/github-icon.png) [github.com/rlipscombe](https://github.com/rlipscombe)
 * ![](images/codeberg-icon.png) [codeberg.org/rlipscombe](https://codeberg.org/rlipscombe)
+* ![](images/github-icon.png) [github.com/rlipscombe](https://github.com/rlipscombe)
+* ![](images/so-icon.png) [stackoverflow.com/users/8446/roger-lipscombe](https://stackoverflow.com/users/8446/roger-lipscombe)
 * ![](images/mastodon.png) [hachyderm.io/@rogerlipscombe](https://hachyderm.io/@rogerlipscombe)
 
